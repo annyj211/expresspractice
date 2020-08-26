@@ -1,0 +1,22 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annyj211/expresspractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annyj211/expresspractice/issues"
+  },
+  "homepage": "https://github.com/annyj211/expresspractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
